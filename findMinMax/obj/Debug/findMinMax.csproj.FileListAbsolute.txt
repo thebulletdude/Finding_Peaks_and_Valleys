@@ -1,0 +1,8 @@
+C:\Users\mageo\source\repos\findMinMax\findMinMax\obj\Debug\findMinMax.csproj.AssemblyReference.cache
+C:\Users\mageo\source\repos\findMinMax\findMinMax\obj\Debug\findMinMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\mageo\source\repos\findMinMax\findMinMax\obj\Debug\findMinMax.csproj.CoreCompileInputs.cache
+C:\Users\mageo\source\repos\findMinMax\findMinMax\bin\Debug\findMinMax.exe.config
+C:\Users\mageo\source\repos\findMinMax\findMinMax\bin\Debug\findMinMax.exe
+C:\Users\mageo\source\repos\findMinMax\findMinMax\bin\Debug\findMinMax.pdb
+C:\Users\mageo\source\repos\findMinMax\findMinMax\obj\Debug\findMinMax.exe
+C:\Users\mageo\source\repos\findMinMax\findMinMax\obj\Debug\findMinMax.pdb
